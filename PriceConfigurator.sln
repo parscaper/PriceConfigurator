@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PriceConfigurator", "PriceConfigurator.pyproj", "{4BD41100-81F1-4662-8E0B-5FB6C0BA780C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD41100-81F1-4662-8E0B-5FB6C0BA780C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD41100-81F1-4662-8E0B-5FB6C0BA780C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645D3E37-45B9-4B79-8B6B-0C727ACFBF05}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+SKU,ELEC,GAS,TERM,GREEN,OFF TYPE,REV1,REV2,Green Type,Term,Commodity,Electricity Rate,Natural Gas Rate,Admin Fee Elec,Admin Fee Gas,Type
+GX1XR3S,G,X,1,X,R,3,S,standard,1,Electricity,$0.1499/kWh,,0.2956,,"50% off Elec Rate, January 2024"
+GX2XR3S,G,X,2,X,R,3,S,standard,2,Electricity,$0.1299/kWh,,0.2956,,"50% off Elec Rate, January 2024"
+GX3XR3S,G,X,3,X,R,3,S,standard,3,Electricity,$0.1199/kWh,,0.2956,,"50% off Elec Rate, January 2024"
+GX5XR3S,G,X,5,X,R,3,S,standard,5,Electricity,$0.1099/kWh,,0.2956,,"50% off Elec Rate, January 2024"
+VX1XR3S,V,X,1,X,R,3,S,standard,1,Electricity,Wholesale Market + $0/kWh,,0.59,,"50% off Elec Rate, January 2024"
